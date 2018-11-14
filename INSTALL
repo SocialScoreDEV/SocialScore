@@ -1,0 +1,9 @@
+Building SocialScore
+
+See doc/readme-qt.rst for instructions on building SocialScore QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of SocialScore.
+
+See doc/build-*.txt for instructions on building socialscored,
+the intended-for-services, no-graphical-interface, reference
+implementation of SocialScore.
